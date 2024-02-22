@@ -30,3 +30,12 @@ class Tree {
       System.out.println("######");
     }
   }
+
+  class bday {
+    public static void main(String[] args) {
+        String name = "Parker";
+        int bday = 2002;
+        System.out.println(name);
+        System.out.println(bday);
+    }
+  }
